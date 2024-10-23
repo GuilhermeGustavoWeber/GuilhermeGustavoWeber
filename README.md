@@ -14,6 +14,7 @@ Português:
 📫 Como me contatar:
   - Email: guilherme7weber@gmail.com
   - LinkedIn: https://www.linkedin.com/in/guilherme-gustavo-weber/
+  - GitHub: https://github.com/GuilhermeGustavoWeber
 
 😄 Pronomes: Ele/Dele
 
@@ -34,6 +35,7 @@ English:
 📫 How to reach me:
   - Email: guilherme7weber@gmail.com
   - LinkedIn: https://www.linkedin.com/in/guilherme-gustavo-weber/
+  - GitHub: https://github.com/GuilhermeGustavoWeber
 
 😄 Pronouns: He/Him
 
