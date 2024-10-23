@@ -1,4 +1,5 @@
 Português:
+
 👋 Olá, sou @GuilhermeGustavoWeber
 
 👀 Estou sempre em busca de aprender mais e aprimorar minhas habilidades em programação e tecnologias relacionadas.
@@ -21,6 +22,7 @@ Português:
 ---------------------------------------------------------------------
 
 English:
+
 👋 Hi, I’m @GuilhermeGustavoWeber
 
 👀 I’m always looking to learn more and improve my skills in programming and related technologies.
