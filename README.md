@@ -18,6 +18,7 @@ Português:
 
 😄 Pronomes: Ele/Dele
 
+---------------------------------------------------------------------
 
 English:
 👋 Hi, I’m @GuilhermeGustavoWeber
