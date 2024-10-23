@@ -2,7 +2,7 @@ Português:
 👋 Olá, sou @GuilhermeGustavoWeber
 
 👀 Estou sempre em busca de aprender mais e aprimorar minhas habilidades em programação e tecnologias relacionadas.
-  - No futuro, quem sabe eu gostaria de me tornar um desenvolvedor de games e criar e compartilhar minhas próprias histórias.
+  - No futuro, quem sabe, eu gostaria de me tornar um desenvolvedor de games e criar e compartilhar minhas próprias histórias.
 
 🌱 No momento, estou fazendo dois cursos:
   - Uma graduação em Ciências da Computação na Faculdade Unimax, em Indaiatuba-SP | Previsão de término em 2026;
