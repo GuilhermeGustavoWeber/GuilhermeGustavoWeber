@@ -29,7 +29,7 @@ Praticante rigoroso de **soberania técnica**:
 
 | Projeto | Domínio & Tecnologias | Destaque Técnico |
 | :--- | :--- | :--- |
-| **[Tharium House](https://guilhermegustavoweber.github.io)** | `C#` `Unity 3D` `NavMesh` | **★ 1º Lugar TechDay 2025**. Motor de IA com discretização volumétrica de calor 3D (0.5s), patrulha estocástica ponderada e cone sensorial de 120º com `Physics.Linecast`. |
+| **[Tharium House](https://github.com/GuilhermeGustavoWeber/tharium-house)** | `C#` `Unity 3D` `NavMesh` | **★ 1º Lugar TechDay 2025**. Motor de IA com discretização volumétrica de calor 3D (0.5s), patrulha estocástica ponderada e cone sensorial de 120º com `Physics.Linecast`. |
 | **[SIDI v2.0](https://github.com/GuilhermeGustavoWeber/sidi)** | `Python 3.12+` `SQLite FTS5` `Merkle DAG` | Copiloto cognitivo autônomo 100% Python Standard Library. Busca híbrida (BM25 + RRF), trilha de auditoria Merkle SHA-256 e grafo neural hebbiano. Mypy strict e 17/17 testes aprovados. |
 | **[NovaStore v3.0](https://github.com/GuilhermeGustavoWeber/novastore)** | `FastAPI` `SQLite` `TypeScript` | E-commerce E2E com isolamento transacional, backoffice executivo (`/admin`), telemetria logística (`/track`) e design system *tactile soft-neumorphic*. |
 | **Gould Manager v1.0** | `Vanilla ES6` `PWA` `SQLite` | Sistema offline-first de alta precisão para manejo genético de aves exóticas, com sincronização cruzada de amas e algoritmo de guarda anti-consanguinidade. |
