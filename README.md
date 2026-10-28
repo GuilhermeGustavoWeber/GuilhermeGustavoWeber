@@ -17,7 +17,7 @@ Graduando em **Ciência da Computação** (7º/8º semestre na UniMAX, previsão
 
 Vencedor do **1º Lugar Geral no TechDay 2025** com a criação do motor de IA espacial tridimensional preditiva do *Tharium House*. Especialista no desenvolvimento de sistemas autônomos, plataformas de e-commerce transacionais e engenharia de baixo nível.
 
-Praticante rigoroso de **soberania técnica**:
+Praticante rigoroso de **engenharia de software resiliente**:
 * Arquiteturas enxutas sem dependências desnecessárias
 * Tipagem estrita (*mypy strict* em Python e TypeScript)
 * Integridade criptográfica (Cadeias Merkle SHA-256)
@@ -30,7 +30,7 @@ Praticante rigoroso de **soberania técnica**:
 | Projeto | Domínio & Tecnologias | Destaque Técnico |
 | :--- | :--- | :--- |
 | **[Tharium House](https://github.com/GuilhermeGustavoWeber/tharium-house)** | `C#` `Unity 3D` `NavMesh` | **★ 1º Lugar TechDay 2025**. Motor de IA com discretização volumétrica de calor 3D (0.5s), patrulha estocástica ponderada e cone sensorial de 120º com `Physics.Linecast`. |
-| **SIDI v2.0 (Privado & Soberano)** | `Python 3.12+` `SQLite FTS5` `Merkle DAG` | Copiloto cognitivo autônomo 100% Python Standard Library. Busca híbrida (BM25 + RRF), trilha de auditoria Merkle SHA-256 e grafo neural hebbiano. Mypy strict e 21/21 testes aprovados. |
+| **SIDI v2.0 (Privado)** | `Python 3.12+` `SQLite FTS5` `Merkle DAG` | Copiloto cognitivo autônomo 100% Python Standard Library. Busca híbrida (BM25 + RRF), trilha de auditoria Merkle SHA-256 e grafo neural hebbiano. Mypy strict e 21/21 testes aprovados. |
 | **[NovaStore v3.0](https://github.com/GuilhermeGustavoWeber/novastore)** | `FastAPI` `SQLite` `TypeScript` | E-commerce E2E com isolamento transacional, backoffice executivo (`/admin`), telemetria logística (`/track`) e design system *tactile soft-neumorphic*. |
 | **Gould Manager v1.0** | `Vanilla ES6` `PWA` `SQLite` | Sistema offline-first de alta precisão para manejo genético de aves exóticas, com sincronização cruzada de amas e algoritmo de guarda anti-consanguinidade. |
 | **[API Pedidos em C](https://github.com/GuilhermeGustavoWeber/api-pedidos-main)** | `Linguagem C (C99)` `POSIX` | Gerenciador de pedidos de baixo nível com alocação manual rigorosa (`malloc`/`free`), contratos de dados em structs nativas e zero coletor de lixo (Zero GC). |
